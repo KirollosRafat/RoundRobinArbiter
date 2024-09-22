@@ -51,7 +51,7 @@ Unlike some scheduling algorithms, round robin ensures that all processes will e
 
   
   # Grant Logic:
-  The final grant signals are assigned based on the outputs of the priority logic. Each grant signal is a combination of outputs from the different priority logic instances, ensuring that only one requestor is granted access at any given time.
-  Operation
-
-
+  
+  The final grant signals are assigned based on the outputs of the priority logic. 
+  
+  Each grant signal is a combination of outputs from the different priority logic instances, ensuring that only one requestor is granted access at any given time.
